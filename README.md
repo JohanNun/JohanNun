@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Johan</h1>
 <h3 align="center">Full Stack Web Developer :computer:</h3>
 
+<br>
+
 - 🔭 I’m currently working on **sharpening my skills as a developer**
 
 - 🌱 I’m currently learning **Angular and React**

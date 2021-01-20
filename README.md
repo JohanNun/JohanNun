@@ -20,9 +20,8 @@
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <ul>
-  
-  
+
+<ul>
   <li> Javascript </li>
   <li> Typescript </li>
   <li> Angular </li>
@@ -40,10 +39,7 @@
   <li> MongoDB </li>
   <li> MySQL </li>
   <li> Firebase </li>
-  <li> Postman </li>
-  
-  
-</p>
+  <li> Postman </li>  
 
 <br>
 <hr>
